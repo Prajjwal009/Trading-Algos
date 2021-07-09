@@ -4,8 +4,8 @@ import pandas as pd
 import talib
 from kiteconnect import KiteConnect
 
-api_k = "ve3c3z8m8ucbstls"  # api_key
-api_s = "5x98262pmv2r16nzez9r9hkvts1qf1vp"  # api_secret
+api_k = ""  # api_key
+api_s = ""  # api_secret
 access_token = 'Zw85Om3UmP0qlIfQ3sWCmGzmnN8Tvuew'
 
 
